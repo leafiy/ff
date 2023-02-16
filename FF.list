@@ -3,7 +3,5 @@
 
 
 # ABC
-DOMAIN,github.com
-DOMAIN,githubusercontent.com
-DOMAIN,openai.com
-DOMAIN,chat.openai.com
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,openai
