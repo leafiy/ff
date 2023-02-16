@@ -3,6 +3,6 @@
 
 
 # ABC
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN,github.com
+DOMAIN,githubusercontent.com
+DOMAIN,openai.com
