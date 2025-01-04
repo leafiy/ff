@@ -1,0 +1,60 @@
+# 社交媒体
+DOMAIN-SUFFIX,facebook.com,Global
+DOMAIN-SUFFIX,fb.com,Global
+DOMAIN-SUFFIX,fbcdn.net,Global
+DOMAIN-SUFFIX,instagram.com,Global
+DOMAIN-SUFFIX,twitter.com,Global
+DOMAIN-SUFFIX,twimg.com,Global
+DOMAIN-SUFFIX,t.co,Global
+DOMAIN-SUFFIX,linkedin.com,Global
+
+# Google 服务
+DOMAIN-SUFFIX,google.com,Global
+DOMAIN-SUFFIX,googleapis.com,Global
+DOMAIN-SUFFIX,gstatic.com,Global
+DOMAIN-SUFFIX,gmail.com,Global
+DOMAIN-SUFFIX,youtube.com,Global
+DOMAIN-SUFFIX,youtu.be,Global
+DOMAIN-SUFFIX,ggpht.com,Global
+
+# Microsoft 服务
+DOMAIN-SUFFIX,github.com,Global
+DOMAIN-SUFFIX,githubusercontent.com,Global
+DOMAIN-SUFFIX,ghcr.io,Global
+DOMAIN-SUFFIX,onedrive.com,Global
+DOMAIN-SUFFIX,azure.com,Global
+
+# Apple 服务
+DOMAIN-SUFFIX,icloud.com,Global
+DOMAIN-SUFFIX,apple.com,Global
+DOMAIN-SUFFIX,me.com,Global
+
+# 流媒体服务
+DOMAIN-SUFFIX,netflix.com,Global
+DOMAIN-SUFFIX,nflxvideo.net,Global
+DOMAIN-SUFFIX,spotify.com,Global
+DOMAIN-SUFFIX,hbo.com,Global
+DOMAIN-SUFFIX,hbogo.com,Global
+DOMAIN-SUFFIX,hbomax.com,Global
+DOMAIN-SUFFIX,primevideo.com,Global
+DOMAIN-SUFFIX,disney.com,Global
+DOMAIN-SUFFIX,disneyplus.com,Global
+
+# 开发相关
+DOMAIN-SUFFIX,docker.com,Global
+DOMAIN-SUFFIX,mongodb.com,Global
+DOMAIN-SUFFIX,npmjs.org,Global
+DOMAIN-SUFFIX,gravatar.com,Global
+DOMAIN-SUFFIX,medium.com,Global
+DOMAIN-SUFFIX,gitbook.com,Global
+DOMAIN-SUFFIX,gitlab.com,Global
+
+# 其他常用服务
+DOMAIN-SUFFIX,dropbox.com,Global
+DOMAIN-SUFFIX,telegram.org,Global
+DOMAIN-SUFFIX,telegram.me,Global
+DOMAIN-SUFFIX,t.me,Global
+DOMAIN-SUFFIX,reddit.com,Global
+DOMAIN-SUFFIX,redd.it,Global
+DOMAIN-SUFFIX,wikipedia.org,Global
+DOMAIN-SUFFIX,wikimedia.org,Global
