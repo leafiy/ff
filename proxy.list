@@ -71,3 +71,6 @@ DOMAIN-SUFFIX,githubusercontent.com,Global
 DOMAIN-SUFFIX,brew.sh,Global
 DOMAIN-SUFFIX,ghcr.io,Global
 DOMAIN-SUFFIX,imgur.com,Global
+DOMAIN-SUFFIX,kessel-api.parsecgaming.com,Global
+DOMAIN-SUFFIX,builds.parsecgaming.com,Global
+DOMAIN-SUFFIX,public.parsec.app,Global
