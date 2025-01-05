@@ -64,3 +64,6 @@ DOMAIN-SUFFIX,tailscale.com,Global
 DOMAIN-SUFFIX,openart.ai,Global
 DOMAIN-SUFFIX,openai.com,Global
 DOMAIN-SUFFIX,chatgpt.com,Global
+DOMAIN-SUFFIX,gvt*.com,Global
+DOMAIN-SUFFIX,intercom.io.com,Global
+
