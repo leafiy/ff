@@ -76,3 +76,16 @@ DOMAIN-SUFFIX,builds.parsecgaming.com,Global
 DOMAIN-SUFFIX,public.parsec.app,Global
 DOMAIN-SUFFIX,civitai.com,Global
 DOMAIN-SUFFIX,pypi.org,Global
+DOMAIN-SUFFIX,pythonhosted.org,Global
+DOMAIN-SUFFIX,python.org,Global
+DOMAIN-SUFFIX,pypi.io,Global
+DOMAIN-SUFFIX,test.pypi.org,Global
+DOMAIN-SUFFIX,upload.pypi.org,Global
+DOMAIN-SUFFIX,files.pythonhosted.org,Global
+DOMAIN-SUFFIX,test.pythonhosted.org,Global
+DOMAIN-SUFFIX,warehouse.pypi.org,Global
+DOMAIN-SUFFIX,warehouse.python.org,Global
+DOMAIN-SUFFIX,docs.python.org,Global
+DOMAIN-SUFFIX,donate.pypi.org,Global
+DOMAIN-SUFFIX,devpi.net,Global
+DOMAIN-SUFFIX,pythonpackages.com,Global
