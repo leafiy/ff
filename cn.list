@@ -45,3 +45,4 @@ DOMAIN-SUFFIX,pinduoduo.com,DIRECT
 # 金融网站
 DOMAIN-SUFFIX,alipay.com,DIRECT
 DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,liblib.cloud,DIRECT
