@@ -16,6 +16,17 @@ DOMAIN-SUFFIX,gmail.com,Global
 DOMAIN-SUFFIX,youtube.com,Global
 DOMAIN-SUFFIX,youtu.be,Global
 DOMAIN-SUFFIX,ggpht.com,Global
+DOMAIN-SUFFIX,gvt1.com,Global
+DOMAIN-SUFFIX,googleusercontent.com,Global
+DOMAIN-SUFFIX,ggpht.com,Global
+DOMAIN-SUFFIX,android.clients.google.com,Global
+DOMAIN-SUFFIX,play.google.com,Global
+DOMAIN-SUFFIX,play.googleapis.com,Global
+IP-CIDR,216.58.0.0/16,Global
+IP-CIDR,172.217.0.0/16,Global
+IP-CIDR,142.250.0.0/16,Global
+IP-CIDR,108.177.0.0/16,Global
+
 
 # Microsoft 服务
 DOMAIN-SUFFIX,github.com,Global
