@@ -150,7 +150,11 @@ DOMAIN-SUFFIX,rclone.org,Global
 DOMAIN-SUFFIX,nianticlabs.com,Global
 DOMAIN-SUFFIX,nianticstatic.com,Global
 DOMAIN-SUFFIX,ldplayer.net,Global
-
+DOMAIN-SUFFIX,statsigapi.net,Global
+DOMAIN-SUFFIX,intercomcdn.com,Global
+DOMAIN-SUFFIX,intercom.io,Global
+DOMAIN-SUFFIX,stripe.network,Global
+DOMAIN-SUFFIX,stripe.com,Global
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net,Global
 DOMAIN-SUFFIX,byteoversea.com,Global
